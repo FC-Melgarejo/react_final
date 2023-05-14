@@ -1,6 +1,6 @@
 # Proyecto Final CoderHouse Ecommerce
 
-link al sitio publicado: https://starlit-syrniki-11474c.netlify.app
+link al sitio publicado: [https://starlit-syrniki-11474c.netlify.app](https://incredible-frangipane-efcc66.netlify.app/)
 
 Este proyecto fue creado con [Create React App](https://github.com/facebook/create-react-app).
 
