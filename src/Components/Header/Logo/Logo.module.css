@@ -1,0 +1,15 @@
+.LogoContainer {
+  justify-self: center;
+  margin-bottom: 50px;
+  font-size: 3em;
+}
+
+h1 {
+  color: white !important;
+  font-size: 1.4em !important;
+}
+
+.LogoContainer img {
+  width: 250px;
+  height: auto;
+}
